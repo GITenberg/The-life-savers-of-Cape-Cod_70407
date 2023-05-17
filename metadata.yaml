@@ -1,0 +1,39 @@
+_repo: The-life-savers-of-Cape-Cod_70407
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dalton, J. W. (John Wilfred)
+    alias: Dalton, John Wilfred
+    birthdate: 1865
+    deathdate: 1920
+    gutenberg_agent_id: '55745'
+    url: http://www.gutenberg.org/2009/agents/55745
+description: ''
+gutenberg_issued: '2023-03-29'
+identifiers:
+  gutenberg: '70407'
+language: en
+pgterms:marc904: https://www.google.com/books/edition/The_Life_Savers_of_Cape_Cod/cERJqOfL8OQC?hl=en&gbpv=0
+pgterms:marc905: 20220810062227dalton
+pgterms:marc906: '1902'
+pgterms:marc907: US
+production_note: Steve Mattern, Charlie Howard, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from scanned images of public
+  domain material from the Google Books project.)
+publication_note: '  $aUnited States :$bThe Barta Press, $c1902.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States. Life-Saving Service'
+- !lcsh 'United States. Life-Saving Service -- Officials and employees -- Biography'
+- !lcsh 'Lifesaving stations -- Massachusetts -- Cape Cod -- History'
+- !lcsh 'Lifesaving -- Massachusetts -- Cape Cod -- History'
+- !lcsh 'Shipwrecks -- Massachusetts'
+- !lcsh 'Rescues -- Massachusetts'
+- !lcsh 'Cape Cod (Mass.) -- History -- 19th century'
+- !lcsh 'Cape Cod (Mass.) -- Biography'
+- !lcc 'VK'
+- GITenberg
+title: The life savers of Cape Cod
+url: http://www.gutenberg.org/ebooks/70407
