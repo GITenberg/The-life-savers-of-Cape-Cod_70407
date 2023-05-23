@@ -1,5 +1,8 @@
 _repo: The-life-savers-of-Cape-Cod_70407
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70407-h/images/cover.jpg
 creator:
   author:
     agent_name: Dalton, J. W. (John Wilfred)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '55745'
     url: http://www.gutenberg.org/2009/agents/55745
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70407#The-life-savers-of-Cape-Cod
 gutenberg_issued: '2023-03-29'
 identifiers:
   gutenberg: '70407'
